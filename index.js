@@ -214,6 +214,6 @@ app.use(apiPrefix, router);
 
 // Start the server
 app.listen(port, () => {
-    console.log(`Server listeningxx on port ${port}`);
+    console.log(`Server listeningx on port ${port}`);
 });
   
